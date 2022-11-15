@@ -1,6 +1,5 @@
 - 👋 Hi, I’m James Mbugua From Kenya, am a talented professional in Data Science and Analytics. Currently am Production Analyst 💻📊 at Wilmar Flowers Ltd Kenya. I closely work  and report to the Director who happens to be the CEO
-- 👓 My techstack are; 
--        Python, SQL, HTML, CSS,PHP, MYSQL, JavaScript, Tableau, Ms Excel, PowerBI.
+- 👓 My techstack are; Python, SQL, HTML, CSS,PHP, MYSQL, JavaScript, Tableau, Ms Excel, PowerBI.
 -        I also have technical skills in creating primary questionnaires and Collecting Data using KOBO ToolBox or ODK.
 - 💼 My responsibilities evolve around;
 -      Intergarting our farmer database and others with Kobo Software to assist in Primary Data Collection, this helps in capturing accurate data.
