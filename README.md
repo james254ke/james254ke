@@ -6,7 +6,7 @@
 - Interpreting and Distributing Production data to key stakeholders.
 - Typing, linking and ensuring that all excel formulas, function and Addins work correctly(Vlookup, IF, IFERROR, Data Validation, ELSE, Data Analysis Toolpack and Pivot Tables).
 - Assiting the various departments in visualizing data using Excel and Power BI.
-- Training Agronomists on how to primary data using Kobo.      
+- Training Agronomists on how to collect field data using Kobo.      
 - 👀 I’m interested in perfecting my skills and helping other professionals solve their day to day challenges.
 - 🌱 I’m currently learning how to analyse data using R and using Tableau.
 - 💞️ I’m looking to collaborate on data analysis projects that mostly involve collection of primary data
